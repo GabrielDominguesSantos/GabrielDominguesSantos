@@ -4,25 +4,43 @@
   </a>
 </p>
 
-### 🚀 About Me
+**Junior Software Developer | Mobile, Front-end & Applied AI**  
+📍 Campinas, SP – Brazil • 🌐 Bilingual (Portuguese / English) • 💻 Open to Remote & Hybrid Opportunities
 
-I'm a Front-End Developer. Currently making projects that solve real life problems and also improving my technical skills. I have already presented my projects at technology fairs and achieved real results!  
-I'm open to work!  
-Feel free to send me a message on my LinkedIn or Email.
+---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
+I'm a Junior Software Developer focused on building end-to-end digital products across **Mobile (React Native/Expo)**, **Web (React/TypeScript)**, and **Applied Generative AI**.
+
+- 🏆 **2nd Place Winner** at the Bosch / ETEC Innovation Hackathon (AMS Program) with **GreenQuest**.
+- 🏭 Completed **200+ hours** of corporate immersion and technical visits sponsored by **Bosch** (including the 40h Iochpe Foundation Creativity & Innovation Journey).
+- ⚡ Experienced in **real-time IoT telemetry dashboards**, **serverless APIs**, and **containerized environments with Docker**.
+- 🤖 Practitioner of modern AI-assisted workflows, including **Context Engineering**, **SDD (Specification-Driven Development)**, and **TDD (Test-Driven Development)**.
+
+---
+
+## 🌟 Featured Projects
+
+### 🌍 [GreenQuest](https://github.com/Hackathon-Bosch-GreenQuest/GreenQuest) — *2nd Place @ Bosch Innovation Hackathon*
+Gamified environmental education mobile app built in a **Monorepo architecture** with **React Native & Expo**, **Firebase**, and **Node.js Serverless Functions (Vercel)** integrated with the **Google Gemini API**.
+
+- Engineered the full mobile game flow (onboarding story, interactive quiz screens, custom mascot HUD, and leaderboard) alongside serverless endpoints (`/api/generate-questions` and `/api/explain-answer`) for real-time AI content generation.
+- 📂 [Repository & Technical Documentation](https://github.com/Hackathon-Bosch-GreenQuest/GreenQuest)
+
+### ⚡ Projeto VERS – Vibration Energy Recovery System *(Private Org Repo)*
+IoT & clean energy ecosystem validated at the **16th (2025) & 17th (2026) BentoTec Tech Fairs**.
+
+- Developed the cross-platform mobile client (**React Native / Expo**) for real-time telemetry (voltage, current, and 30W–35W power output from ESP32 hardware via API/MQTT), containerized with **Docker**, alongside the official product landing page (`versLP`).
+
+---
+
+## 🛠 Tech Stack
+
+- **Mobile & Front-end:** React Native, Expo, React, TypeScript, JavaScript (ES6+), Vite, HTML5, CSS3, Figma (UI/UX)
+- **Back-end, APIs & Cloud:** Node.js (Vercel Serverless), Python (FastAPI), REST APIs, Firebase, MySQL / MariaDB
+- **DevOps & Architecture:** Docker, Docker Compose, Monorepo (pnpm), Git, GitHub, MQTT, Vercel
+- **AI & Methodologies:** Google Gemini API, OpenCode, Context Engineering, SDD, TDD, Scrum / Kanban
 
 ### 🔗 Connect With Me
 
